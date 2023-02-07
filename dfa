@@ -1,0 +1,669 @@
+[33mcommit 055c32cd18a5e13fa470635373d768522f4d4143[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v0.1.2[m[33m, [m[1;33mtag: v0.1.0[m[33m, [m[1;31mservidor2/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin-prueba1/master[m[33m)[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 22:30:13 2023 -0500
+
+    Arreglando
+
+[33mcommit 3aafd2588403dfe0bcfb838eecf993bcfa2dc28f[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 22:29:40 2023 -0500
+
+    pipipi2
+
+[33mcommit cebca20df872b1471bca2071829586ed57e11ebf[m
+Merge: fcf50d3 7fd3559
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:41:04 2023 -0500
+
+    ta raron
+
+[33mcommit fcf50d3a6a105f66be877b5317614fcef840452c[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:32:58 2023 -0500
+
+    arreglando too
+
+[33mcommit d79e98e9e38eb20c2374a2f1a0c90e3e440166b0[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:43:42 2023 -0500
+
+    ägregando algo nuevo
+
+[33mcommit 8768832d792647151c3ad6ac396dcfc47aaa6017[m
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:38:07 2023 -0500
+
+    pRUEBA
+
+[33mcommit 7fd35595f51eeea65a72ff83fc4379b73edf5e48[m
+Merge: 918dc87 c1668cb
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:36:18 2023 -0500
+
+    Mejor este diseño
+
+[33mcommit 918dc87a7110745481b48a7583d47193a0da55c3[m
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:22:58 2023 -0500
+
+    Modificando el nombre del curso ansibel
+
+[33mcommit 04923ae795cb9d0fb9dccbd01306347714213c54[m
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:12:42 2023 -0500
+
+    reverts commit b26fd2b85b30e5d5903ac353aefc697e691dee21.
+
+[33mcommit 733f00b489edd6ec76cef7a10e77f731229d2a7c[m
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:11:30 2023 -0500
+
+    colocando texto en el peor de los casos
+
+[33mcommit 9748ee8614591f9970d0deee9be56a95570cff90[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 22:02:52 2023 -0500
+
+    Revert "Cambiando el nobre y el vurso de ansibel"
+    
+    This reverts commit 0a2f8af0b0632ba2277cd554ba8898bd37406aa0.
+
+[33mcommit 6b6f882a24cdd1e8387041128553b42cae4c9291[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 22:02:08 2023 -0500
+
+    Cambiando el nobre y el vurso de ansibel
+
+[33mcommit 63d77df74557395460f8bf6a1bdd90b3233ba30a[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:41:26 2023 -0500
+
+    se esta agregando jejeje
+
+[33mcommit 9a4993bce3d84ba6794c7d9088a88d37888a289b[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:32:58 2023 -0500
+
+    arreglando too
+
+[33mcommit b14ef93d85f33aa9847a82f8c22367f67ffcf4bf[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:32:27 2023 -0500
+
+    Agregando algo en la priemra fila
+
+[33mcommit c1668cb3585edc8f9f431ef4bdaaad8f167f5f97[m
+Merge: 30d6893 16c4215
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:27:34 2023 -0500
+
+    Actualizando con push
+
+[33mcommit 30d68933c37e2fc871e725b0d8b63c36fb127f6e[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:26:12 2023 -0500
+
+    No se qu chi sera
+
+[33mcommit 16c42153d87c11e18f6975cdec1886453a7f167c[m
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:22:58 2023 -0500
+
+    Modificando el nombre del curso ansibel
+
+[33mcommit 0e758947a1fb86334f1eb116c69a9333950a92da[m
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:17:43 2023 -0500
+
+    Modificando el nombre del curso kubnernetes
+
+[33mcommit f05e6c3ced5bfb1fb14347caf322eac6b0939cbe[m
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:12:42 2023 -0500
+
+    reverts commit b26fd2b85b30e5d5903ac353aefc697e691dee21.
+
+[33mcommit b26fd2b85b30e5d5903ac353aefc697e691dee21[m
+Author: Pepe <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 30 21:11:30 2023 -0500
+
+    colocando texto en el peor de los casos
+
+[33mcommit 7edea7d379f563c4191cb3749f8aad7f1eb6f7c9[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 22:24:40 2023 -0500
+
+    ajjajjja
+
+[33mcommit 3bc4fc9acc167252797de3236e8160b53fe54249[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 22:18:58 2023 -0500
+
+    Modificando el nobre de curso de
+
+[33mcommit 5707bceb33f5ee046efd4a6e48d94da437e53c75[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 22:14:58 2023 -0500
+
+    jajfajsdfj
+
+[33mcommit cd1c5f8a26b9f02c3bb78987732da3b06aa152fb[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 22:09:43 2023 -0500
+
+    modificando el nombre
+
+[33mcommit 9412fd45d73071e6c03f2eb56eecfbffb8c9a9b6[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 22:02:52 2023 -0500
+
+    Revert "Cambiando el nobre y el vurso de ansibel"
+    
+    This reverts commit 0a2f8af0b0632ba2277cd554ba8898bd37406aa0.
+
+[33mcommit 0a2f8af0b0632ba2277cd554ba8898bd37406aa0[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 22:02:08 2023 -0500
+
+    Cambiando el nobre y el vurso de ansibel
+
+[33mcommit 61d5ed960f6902788781976d0f3d730ae445e5c1[m
+Merge: 3039327 ddb7881
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:58:09 2023 -0500
+
+    Merge branch 'master' of C:/ALURA LATAM/LOGICA DE PROGRAMACION/servidor2
+
+[33mcommit 30393276a838225126482bfd787479c986171c83[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:40:22 2023 -0500
+
+    arreglando
+
+[33mcommit cee04752f65c620ef1fa6e94ac7124b1389638ee[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:41:26 2023 -0500
+
+    se esta agregando jejeje
+
+[33mcommit 373d693f433873f75bb4b1d35f38f6f6f44edb6b[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:49:36 2023 -0500
+
+    B: MASTER - A: Agreagando una vez mas
+
+[33mcommit d059a5fda20ecdb33aaebcd1bb3dfc65fc2e5c7c[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:43:42 2023 -0500
+
+    ägregando algo nuevo
+
+[33mcommit ddb78815cfca3de74cfd40393ec27d58260cee4f[m
+Merge: 62ef8ae 12cb215
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:41:36 2023 -0500
+
+    Merge branch 'master' of C:/ALURA LATAM/LOGICA DE PROGRAMACION/servidor2
+
+[33mcommit 62ef8aedbb3dbe105de4d0e3c99d87d9fe7e69f5[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:41:26 2023 -0500
+
+    se esta agregando jejeje
+
+[33mcommit 12cb21558c6a5cc5591153cadfee29b49d0701fd[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:40:22 2023 -0500
+
+    arreglando
+
+[33mcommit 4629fab8f89892edd4c3e6980f73e2b8cc657830[m
+Merge: 616b8f7 37a65ce
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:32:00 2023 -0500
+
+    actualizando al mas bonitoa
+
+[33mcommit 37a65cee20f67a9136aceae5c83b6d73e9758e4b[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:30:48 2023 -0500
+
+    actualizando la misma linea con aaa....
+
+[33mcommit 616b8f7285bbb29915a22a2b1ea2f3cd2e8692e6[m
+Merge: 3bd8145 0e39048
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:30:16 2023 -0500
+
+    se actualizo
+
+[33mcommit 0e390481632aa5f5dedfb768661feff167902e0b[m
+Merge: dbd3783 b446ce4
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:27:39 2023 -0500
+
+    Merge branch 'master' of C:/ALURA LATAM/LOGICA DE PROGRAMACION/servidor2
+     Please enter a commit message to explain why this merge is necessary,
+
+[33mcommit dbd37834cb5a6d6130c38b653c6947c37cb86df4[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:56:34 2023 -0500
+
+    Se agrego la actualizacion
+
+[33mcommit 682fb1c10a59d2e72dc13fae1f8aef9655b2a8d2[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:38:09 2023 -0500
+
+    B: LISTA A: Actualizando nombre
+
+[33mcommit a4a879ee2fad07883098f30fe27cebb3f89dc6c1[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:50:57 2023 -0500
+
+    Agregando el curso de KUBERNETES
+
+[33mcommit fc9bcc09d053449a9d2d5a0dc4e61e0c42f7e7c2[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:56:34 2023 -0500
+
+    Se agrego la actualizacion
+
+[33mcommit 9e4d73d87cdeab90b0bdb19fa73f40d1a6269ba1[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:38:09 2023 -0500
+
+    B: LISTA A: Actualizando nombre
+
+[33mcommit 267f48825b55690aeb8ba3ec223d0f5862ff972a[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:50:57 2023 -0500
+
+    Agregando el curso de KUBERNETES
+
+[33mcommit 38330d45604521604decf8aa90d0f612bdb2412f[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:56:34 2023 -0500
+
+    Se agrego la actualizacion
+
+[33mcommit c0e07e83136b30d48854b2800dd4bb61f1f6de2e[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:38:09 2023 -0500
+
+    B: LISTA A: Actualizando nombre
+
+[33mcommit 3575b7abc3f00aea1f769d0f9ea72548e7fa3888[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:50:57 2023 -0500
+
+    Agregando el curso de KUBERNETES
+
+[33mcommit bc68c03c87e83e6729c71884c30aa9f75c0c4491[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:49:36 2023 -0500
+
+    B: MASTER - A: Agreagando una vez mas
+
+[33mcommit 927c55c29d4cbcdf3b891ca75107e3ead16664a6[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:26:55 2023 -0500
+
+    Agregando 2 AA
+
+[33mcommit eaabe6a4df29770c7ee9125b256c8a3488202917[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:22:34 2023 -0500
+
+    Elimando la A-
+
+[33mcommit cc85972473f104a8288bbbe27094421dec1ac515[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:19:00 2023 -0500
+
+    Agregando A-A
+
+[33mcommit 3bd81453d7e40acbc326f2af8389675d3563d7f3[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 21:01:50 2023 -0500
+
+    se agrego otra vez denuevo
+
+[33mcommit b446ce4022811829328fe08242f4624588126115[m
+Merge: d1b368c 72ced9a
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:57:22 2023 -0500
+
+    Merge branch 'master' of C:/ALURA LATAM/LOGICA DE PROGRAMACION/servidor2
+
+[33mcommit d1b368cc1b51d4a32131d5e527f1afa185b83812[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:56:34 2023 -0500
+
+    Se agrego la actualizacion
+
+[33mcommit 3f7128e72cf5b78cfa60c230a361a9cb85c32e74[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:38:09 2023 -0500
+
+    B: LISTA A: Actualizando nombre
+
+[33mcommit 60302dc8157cf76fdad7698a40715fe2f9ef48e5[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:50:57 2023 -0500
+
+    Agregando el curso de KUBERNETES
+
+[33mcommit 9d1f623ee2e452dfe1b5596943d2c36a4098357d[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:49:36 2023 -0500
+
+    B: MASTER - A: Agreagando una vez mas
+
+[33mcommit a595ed78687ca9944067791b09d0fd61f4faeaee[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:55:24 2023 -0500
+
+    Una vez mas otra vez
+
+[33mcommit ef4da643ff0ea532c95e4399159ffadd89875d90[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:52:51 2023 -0500
+
+    Modificando la linea de Ansible
+
+[33mcommit 72ced9a99e8f880de081201df4e26b88658d7c9f[m
+Merge: 5963135 a062653
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:44:33 2023 -0500
+
+    B: MASTER A: ARREGLANDO OCNFLICTOS
+
+[33mcommit a0626533d222b789d4d93968325c25fc6dc35a7f[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:38:09 2023 -0500
+
+    B: LISTA A: Actualizando nombre
+
+[33mcommit 59631350345399a67c2ade635ff14477fdf18978[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:34:31 2023 -0500
+
+    B: TITULO - A: Tercera prueba
+
+[33mcommit b74abae96efe90615dadb2c90277c01b971b9c02[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:31:14 2023 -0500
+
+    B: TITULO - A: Guardando erroes en IE
+
+[33mcommit 48db39bd8d2263828dd4d0a0485441170df7a4d3[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:18:49 2023 -0500
+
+    B: TITULO - A: Agregando integracion para la progra
+
+[33mcommit bb1e29a3b732879ea638bfa430c1aba34a3298f3[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:10:12 2023 -0500
+
+    B: TITULO - A: Segunda prueba
+
+[33mcommit 336bb266cc1e39f3a57d937f2cd11bb37086b25d[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 20:05:12 2023 -0500
+
+    B: TITULO - A: 203
+
+[33mcommit f9cc4f4c95b55dc916e1232339e53c4176205174[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:57:42 2023 -0500
+
+    No se que se copio
+
+[33mcommit 3c570719c647fe796f2211a14c1ed9b166f4f0d6[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:50:57 2023 -0500
+
+    Agregando el curso de KUBERNETES
+
+[33mcommit 5b2f599812f721f41dde2d60e915fc3e0c10bd80[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:47:28 2023 -0500
+
+    Cambio de titulo por lista de Cursos DEVOPS DE ALURA
+
+[33mcommit 3f43c0c71ba57f3ea7295523953113ba358d66f7[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:46:06 2023 -0500
+
+    Modificando el titulo
+
+[33mcommit c5c240b6c42395803ca4e3d3e790fd818b08c9be[m
+Merge: 1d33ed6 2fc0639
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:35:53 2023 -0500
+
+    una mrd
+
+[33mcommit 2fc06393309e0a7b097ffec5b83478f74a17b998[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:34:59 2023 -0500
+
+    jsjsjsjs
+
+[33mcommit 1d33ed60811ea2b5dae1195438cc0d91cb2a8d56[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:31:23 2023 -0500
+
+    jsjjsjsjsfa
+
+[33mcommit 0adcf09ceabf1db47c4cb3ca886f777c135bdeed[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:26:55 2023 -0500
+
+    tmr
+
+[33mcommit 8ce9e21b22828c61c7b206b0ac060aaa8ad309f7[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:25:11 2023 -0500
+
+    COrrigiende denevo la ptmr
+
+[33mcommit 3fda37f2777f0ced30feb08d54fa70d95c5eff09[m
+Merge: c7c9010 0b25edc
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:21:26 2023 -0500
+
+    Corrigiendo con el profe de mrd
+
+[33mcommit c7c901021f29debf3107511e65e41d991454088c[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:19:36 2023 -0500
+
+    Corrigiendo curso de VAGRAN
+
+[33mcommit 0b25edcce89d198fdd262142452abf9260f04014[m
+Merge: 6736057 a95e670
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:17:06 2023 -0500
+
+    Se corrigio los problemas
+
+[33mcommit a95e670565d21e3ded1ea5d1b2db33056afd16f7[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:10:08 2023 -0500
+
+    Actualizando el titulo y el nombre de docker
+
+[33mcommit 6736057db0cf42e9fbc41c74753e5649d00696f0[m[33m ([m[1;32mTraveling[m[33m)[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 18:43:26 2023 -0500
+
+    Corrigiendo el nombre del curso docker
+
+[33mcommit 71881f6705ae0eabc70c34acf29f63285799c9d2[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 19:05:57 2023 -0500
+
+    Cursos con la letra mayuscula
+
+[33mcommit c5a51135b4b3e7948e0bcc7b6f925ee6ebf59f63[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 18:56:30 2023 -0500
+
+    cursos con la letra miniscula
+
+[33mcommit d6df17491bc73cb930371d7f96aee9d57d056850[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 18:34:57 2023 -0500
+
+    Agregando curso de KUBERNETS 2.0
+
+[33mcommit 5fa0decf6dd28662fd0e59d0bcc69c20dbb1a921[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 18:29:51 2023 -0500
+
+    Cambio de titulo por lista de cursos de DEVOPS
+
+[33mcommit 1063309ca65139d3778523db44e07aef9343c672[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Sat Jan 28 18:28:41 2023 -0500
+
+    Colocando una de
+
+[33mcommit c8a0fe228d3257bc8a6782a1b9c764862e443cc0[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Thu Jan 26 22:39:44 2023 -0500
+
+    Cambio de titulo por lista de cursos de Devops de Alura
+
+[33mcommit 70a8a4224297cb879205fd0c1406027d250a477a[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Thu Jan 26 22:38:39 2023 -0500
+
+    Editando el titulo
+
+[33mcommit c34840cbe7f5105dcddb4be8f846683b26cf913e[m
+Merge: a585e5c 62368bf
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 22:45:32 2023 -0500
+
+    pipipi2
+
+[33mcommit 62368bf471081fe653f2c6cd469cdae1961a1b5a[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 22:42:13 2023 -0500
+
+    pipip
+
+[33mcommit a585e5cfc088b166642c4682854efa070d672035[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 22:40:42 2023 -0500
+
+    aadfasjjjjjj
+
+[33mcommit 70125e1de5ced8f19966c4e960eb2b1bd502204d[m
+Merge: e938f3f 83914d7
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 22:33:16 2023 -0500
+
+    Merge branch 'master' of C:/ALURA LATAM/LOGICA DE PROGRAMACION/servidor2
+
+[33mcommit 83914d7b1b03fb198ee01ab064c108402c032fe6[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 22:32:02 2023 -0500
+
+    aaaaasdasdfasdfasdfas
+
+[33mcommit e938f3fc052a532fc49756040f97999e1263d4ae[m
+Merge: 1e468f1 af5c56b
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 22:28:57 2023 -0500
+
+    aaaaaa
+
+[33mcommit 1e468f1e11e7224615cf8fe914c95392cb1a7ce5[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 22:27:09 2023 -0500
+
+    PRUEBA 1.2.2023
+
+[33mcommit af5c56b94e5f95eae8a9606fc8f27dbddf4ce62d[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 22:24:37 2023 -0500
+
+    PRUEBA1.1.2023
+
+[33mcommit b1360c3969f9a0b84f216d3eef4553a9695316ec[m
+Merge: 4d845e8 ddc2e35
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 20:33:10 2023 -0500
+
+    PRUEBA 1
+
+[33mcommit ddc2e3585358cf6332a6f9f948eb4693577988cf[m[33m ([m[1;31mservidorlocal-o/master[m[33m)[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 20:28:59 2023 -0500
+
+    PRUEBA 1
+
+[33mcommit 4d845e82eaf176b1799efb4733f0ad2d2477f70d[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 20:25:39 2023 -0500
+
+    Prueba
+
+[33mcommit ec677f09ef514fb92ee941dd2162af3951dfc041[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 20:19:46 2023 -0500
+
+    Se agrego algo nuevo a INTEGRACION
+
+[33mcommit 5e5d739ee628d40da91422eece4080566d8a4992[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 18:55:34 2023 -0500
+
+    Agregando gitignore
+
+[33mcommit 51bd142a0aa326a0d685cef29d874bc1c66ee489[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 18:51:24 2023 -0500
+
+    Prueba de creacion de carpeta
+
+[33mcommit af8df4f9a17eba4ce36da6d8b7557c69c5896a08[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 18:46:47 2023 -0500
+
+    se puso el otra vez soy yo
+
+[33mcommit 98406be8fba6877b20573ad8e9c32f26832ca220[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 18:43:14 2023 -0500
+
+    Se modifico el index y se puso aaaaaaaa
+
+[33mcommit af45172e0e29bc65e96e83d37339cc1694fabc0a[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 18:34:06 2023 -0500
+
+    Se esta editando el index.html otra vez
+
+[33mcommit 9b289dd6229cb66d1f10944b89e22237c8081fe5[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 18:33:31 2023 -0500
+
+    Se esta editando el index.html
+
+[33mcommit e4a25e79774964b5a991a55dfb5ea9c55aa8e88f[m
+Author: Jeizer <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 18:12:31 2023 -0500
+
+    Arreglado acento en el curso de integracion continua
+
+[33mcommit 57c3747a78324ecc262ef9fb7f37a637e1f43bdf[m
+Author: EizerPc <jeizerpaitancarhuaricra@gmail.com>
+Date:   Mon Jan 23 18:07:37 2023 -0500
+
+    Creando archivo index.html con lista de cursos
